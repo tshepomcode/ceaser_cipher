@@ -54,3 +54,5 @@ end
 
 
 ceaser_cipher("What a string!", 5)
+
+# Definetly can shorten this code but I'm new to ruby ;-)
